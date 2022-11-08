@@ -1,10 +1,10 @@
-package com.orquestrador.containerDois;
+package com.api.secondService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ContainerDoisApplicationTests {
+class SecondServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

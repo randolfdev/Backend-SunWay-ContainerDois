@@ -8,11 +8,11 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.orquestrador</groupId>
-	<artifactId>containerDois</artifactId>
+	<groupId>com.api</groupId>
+	<artifactId>secondService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>containerDois</name>
-	<description>Orquestrador Container Dois</description>
+	<name>secondService</name>
+	<description>Second Service</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
